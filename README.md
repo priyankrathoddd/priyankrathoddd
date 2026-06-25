@@ -106,7 +106,14 @@ Python, NumPy, Statistics and Machine Learning Practice.
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankrathoddd&layout=compact&theme=tokyonight&hide_border=true"/>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=priyankrathoddd&theme=tokyonight&hide_border=true"/>
+
 </p>
+
 
 ## 📫 Connect with Me
 
