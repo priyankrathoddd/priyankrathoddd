@@ -99,6 +99,12 @@ EDA using Pandas, NumPy, Matplotlib and Seaborn.
 Python, NumPy, Statistics and Machine Learning Practice.
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyankrathoddd/priyankrathoddd/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 ## 📊 GitHub Stats
 <p align="center">
 
