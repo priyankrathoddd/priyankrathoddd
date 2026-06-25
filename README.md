@@ -100,7 +100,6 @@ Python, NumPy, Statistics and Machine Learning Practice.
 
 ---
 ## 📊 GitHub Stats
-
 <p align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=priyankrathoddd&show_icons=true&theme=tokyonight&hide_border=true"/>
