@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=I'm+Priyank+Rathod;Aspiring+Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Open+to+Work" alt="Typing SVG" />
+</p>
 <h1 align="center">I'm Priyank Rathod</h1>
 
 <h3 align="center">
@@ -14,6 +17,7 @@ Aspiring Data Analyst | Data Science Enthusiast
 - 💡 Love solving business problems using data
 - 🎯 Goal: Become a Data Scientist
 
+</p>
 ---
 
 ## 🛠️ Languages & Tools
@@ -95,6 +99,15 @@ EDA using Pandas, NumPy, Matplotlib and Seaborn.
 Python, NumPy, Statistics and Machine Learning Practice.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=priyankrathoddd&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankrathoddd&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 📫 Connect with Me
 
