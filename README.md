@@ -127,3 +127,7 @@ Python, NumPy, Statistics and Machine Learning Practice.
 💼 LinkedIn: 
 
 🌐 GitHub: https://github.com/priyankrathoddd
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyankrathoddd&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
+</p>
