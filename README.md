@@ -7,6 +7,7 @@ Aspiring Data Analyst | Data Science Enthusiast
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=I'm+Priyank+Rathod;Aspiring+Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Open+to+Work" alt="Typing SVG" />
 </p>
 
+---
 
 ## 🚀 About Me
 
@@ -17,6 +18,7 @@ Aspiring Data Analyst | Data Science Enthusiast
 - 🎯 Goal: Become a Data Scientist
 
 </p>
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -78,78 +80,34 @@ Aspiring Data Analyst | Data Science Enthusiast
 
 <p align="center">
 <b>Always learning. Always improving. 🚀</b>
-</p>
 
-</p>
 ---
+
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 🗄️ SQL For Data Analytics
-Comprehensive SQL practice repository covering DDL, DML, Joins, Constraints, Views, Functions, Subqueries, and real-world data analytics queries using MySQL.
+<a href="https://github.com/priyankrathoddd/SQL-For-Data-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=SQL-For-Data-Analytics&theme=tokyonight"/>
+</a>
 
-🔗 **Repository:**  
-https://github.com/priyankrathoddd/SQL-For-Data-Analytics
+<a href="https://github.com/priyankrathoddd/PS4-GamesSales-Analysis-Bar-Plot-Line-Plot-Pie-Chart">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=PS4-GamesSales-Analysis-Bar-Plot-Line-Plot-Pie-Chart&theme=tokyonight"/>
+</a>
 
-</td>
+<a href="https://github.com/priyankrathoddd/Mumbai-Real-Estate-Analysis-Seaborn-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=Mumbai-Real-Estate-Analysis-Seaborn-&theme=tokyonight"/>
+</a>
 
-<td width="50%">
+<a href="https://github.com/priyankrathoddd/Data-Science-Case-Study">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=Data-Science-Case-Study&theme=tokyonight"/>
+</a>
 
-### 🎮 PS4 Sales Analysis
-Exploratory Data Analysis (EDA) of PS4 sales using Python, Pandas, NumPy, and Matplotlib to uncover sales trends and business insights.
+<a href="https://github.com/priyankrathoddd/Data-Science-And-Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=Data-Science-And-Analytics&theme=tokyonight"/>
+</a>
 
-🔗 **Repository:**  
-https://github.com/priyankrathoddd/PS4-GamesSales-Analysis-Bar-Plot-Line-Plot-Pie-Chart
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏠 Mumbai Real Estate Analysis
-Exploratory Data Analysis of Mumbai real estate using Python, Pandas, NumPy, Matplotlib, and Seaborn with various visualizations.
-
-🔗 **Repository:**  
-https://github.com/priyankrathoddd/Mumbai-Real-Estate-Analysis-Seaborn-
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Science Case Study
-Collection of real-world data science case studies using Python, Pandas, NumPy, Statistics, and Machine Learning concepts.
-
-🔗 **Repository:**  
-https://github.com/priyankrathoddd/Data-Science-Case-Study
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Data Science & Analytics
-Hands-on repository covering Python, NumPy, Statistics, Data Analysis, Z-Test, T-Test, and Machine Learning practice.
-
-🔗 **Repository:**  
-https://github.com/priyankrathoddd/Data-Science-And-Analytics
-
-</td>
-
-<td width="50%">
-
-### 📈 Power BI Dashboard Projects
-🚧 Coming Soon...
-
-Interactive Power BI dashboards with KPI analysis, DAX, sales reports, and business intelligence projects.
-
-</td>
-</tr>
-</table>
+</p>
 
 ## 🐍 Contribution Snake
 
