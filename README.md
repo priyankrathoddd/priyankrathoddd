@@ -82,22 +82,75 @@ Aspiring Data Analyst | Data Science Enthusiast
 
 </p>
 ---
+<h2 align="center">🚀 Featured Projects</h2>
 
-## 📂 Featured Projects
+<table>
+<tr>
+<td width="50%">
+
+### 🗄️ SQL For Data Analytics
+Comprehensive SQL practice repository covering DDL, DML, Joins, Constraints, Views, Functions, Subqueries, and real-world data analytics queries using MySQL.
+
+🔗 **Repository:**  
+https://github.com/priyankrathoddd/SQL-For-Data-Analytics
+
+</td>
+
+<td width="50%">
 
 ### 🎮 PS4 Sales Analysis
+Exploratory Data Analysis (EDA) of PS4 sales using Python, Pandas, NumPy, and Matplotlib to uncover sales trends and business insights.
 
-Exploratory Data Analysis using Python, Pandas, Matplotlib and NumPy.
+🔗 **Repository:**  
+https://github.com/priyankrathoddd/PS4-GamesSales-Analysis-Bar-Plot-Line-Plot-Pie-Chart
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🏠 Mumbai Real Estate Analysis
+Exploratory Data Analysis of Mumbai real estate using Python, Pandas, NumPy, Matplotlib, and Seaborn with various visualizations.
 
-EDA using Pandas, NumPy, Matplotlib and Seaborn.
+🔗 **Repository:**  
+https://github.com/priyankrathoddd/Mumbai-Real-Estate-Analysis-Seaborn-
 
-### 📈 Data Science Practice Repository
+</td>
 
-Python, NumPy, Statistics and Machine Learning Practice.
+<td width="50%">
 
----
+### 📊 Data Science Case Study
+Collection of real-world data science case studies using Python, Pandas, NumPy, Statistics, and Machine Learning concepts.
+
+🔗 **Repository:**  
+https://github.com/priyankrathoddd/Data-Science-Case-Study
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Data Science & Analytics
+Hands-on repository covering Python, NumPy, Statistics, Data Analysis, Z-Test, T-Test, and Machine Learning practice.
+
+🔗 **Repository:**  
+https://github.com/priyankrathoddd/Data-Science-And-Analytics
+
+</td>
+
+<td width="50%">
+
+### 📈 Power BI Dashboard Projects
+🚧 Coming Soon...
+
+Interactive Power BI dashboards with KPI analysis, DAX, sales reports, and business intelligence projects.
+
+</td>
+</tr>
+</table>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
