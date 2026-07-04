@@ -109,7 +109,7 @@ Aspiring Data Analyst | Data Science Enthusiast
 
 </p>
 
-## 🐍 Contribution Snake
+## ⚡ Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/priyankrathoddd/priyankrathoddd/output/github-contribution-grid-snake.svg" alt="snake animation" />
