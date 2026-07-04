@@ -118,9 +118,8 @@ Aspiring Data Analyst | Data Science Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyankrathoddd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priyankrathoddd&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=priyankrathoddd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=priyankrathoddd&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
