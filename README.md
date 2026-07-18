@@ -87,24 +87,28 @@ Aspiring Data Analyst | Data Science Enthusiast
 
 <p align="center">
 
+<a href="https://github.com/priyankrathoddd/Machine-Learning-Real-World-Projects">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=Machine-Learning-Real-World-Projects&theme=tokyonight&border_radius=12&hide_border=true" />
+</a>
+
+<a href="https://github.com/priyankrathoddd/PowerBI-CaseStudy">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=PowerBI-CaseStudy&theme=tokyonight&border_radius=12&hide_border=true" />
+</a>
+
 <a href="https://github.com/priyankrathoddd/SQL-For-Data-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=SQL-For-Data-Analytics&theme=tokyonight"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=SQL-For-Data-Analytics&theme=tokyonight&border_radius=12&hide_border=true" />
 </a>
 
-<a href="https://github.com/priyankrathoddd/PS4-GamesSales-Analysis-Bar-Plot-Line-Plot-Pie-Chart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=PS4-GamesSales-Analysis-Bar-Plot-Line-Plot-Pie-Chart&theme=tokyonight"/>
+<a href="https://github.com/priyankrathoddd/Tableau-For-Data-Analytics">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=Tableau-For-Data-Analytics&theme=tokyonight&border_radius=12&hide_border=true" />
 </a>
 
-<a href="https://github.com/priyankrathoddd/Mumbai-Real-Estate-Analysis-Seaborn-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=Mumbai-Real-Estate-Analysis-Seaborn-&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/priyankrathoddd/Data-Science-Case-Study">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=Data-Science-Case-Study&theme=tokyonight"/>
+<a href="https://github.com/priyankrathoddd/Mumbai-Real-Estate-Analysis-Seaborn">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=Mumbai-Real-Estate-Analysis-Seaborn&theme=tokyonight&border_radius=12&hide_border=true" />
 </a>
 
 <a href="https://github.com/priyankrathoddd/Data-Science-And-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyankrathoddd&repo=Data-Science-And-Analytics&theme=tokyonight"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=Data-Science-And-Analytics&theme=tokyonight&border_radius=12&hide_border=true" />
 </a>
 
 </p>
