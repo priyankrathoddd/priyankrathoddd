@@ -86,32 +86,132 @@ Aspiring Data Analyst | Data Science Enthusiast
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-
-<a href="https://github.com/priyankrathoddd/Machine-Learning-Real-World-Projects">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=Machine-Learning-Real-World-Projects&theme=tokyonight&border_radius=12&hide_border=true" />
-</a>
-
-<a href="https://github.com/priyankrathoddd/PowerBI-CaseStudy">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=PowerBI-CaseStudy&theme=tokyonight&border_radius=12&hide_border=true" />
-</a>
-
-<a href="https://github.com/priyankrathoddd/SQL-For-Data-Analytics">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=SQL-For-Data-Analytics&theme=tokyonight&border_radius=12&hide_border=true" />
-</a>
-
-<a href="https://github.com/priyankrathoddd/Tableau-For-Data-Analytics">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=Tableau-For-Data-Analytics&theme=tokyonight&border_radius=12&hide_border=true" />
-</a>
-
-<a href="https://github.com/priyankrathoddd/Mumbai-Real-Estate-Analysis-Seaborn">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=Mumbai-Real-Estate-Analysis-Seaborn&theme=tokyonight&border_radius=12&hide_border=true" />
-</a>
-
-<a href="https://github.com/priyankrathoddd/Data-Science-And-Analytics">
-<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=priyankrathoddd&repo=Data-Science-And-Analytics&theme=tokyonight&border_radius=12&hide_border=true" />
-</a>
-
+Explore some of my favorite data science, machine learning, SQL and analytics projects.
 </p>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning Real World Projects
+
+Complete end-to-end Machine Learning workflows with preprocessing, feature engineering, model training, evaluation and deployment-ready notebooks.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
+
+<p align="center">
+<a href="https://github.com/priyankrathoddd/Machine-Learning-Real-World-Projects">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning
+
+Regression, Classification, Decision Trees, Random Forest, Feature Engineering and Model Evaluation.
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `Pandas`
+
+<p align="center">
+<a href="https://github.com/priyankrathoddd/Machine-Learning">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚗 Automobile Analysis
+
+Exploratory Data Analysis of automobile datasets with feature engineering, visualization and business insights.
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib`
+
+<p align="center">
+<a href="https://github.com/priyankrathoddd/Automobile-Analysis-Case-Study">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Share Market Analysis
+
+Stock market data analysis with moving averages, trends, visualizations and investment insights.
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib`
+
+<p align="center">
+<a href="https://github.com/priyankrathoddd/Share-Market-Data-Analysis-Case-Study">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛍️ Online Retail Sales Analysis
+
+Customer behavior analysis, sales trends, revenue analysis and business intelligence using Python.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy`
+
+<p align="center">
+<a href="https://github.com/priyankrathoddd/Online-Retail-Sales-Analysis-Case-Study">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💾 SQL for Data Analytics
+
+Comprehensive SQL repository covering DDL, DML, Constraints, Joins, Window Functions and Business Queries.
+
+**Tech Stack**
+
+`MySQL` `SQL`
+
+<p align="center">
+<a href="https://github.com/priyankrathoddd/SQL-For-Data-Analytics">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ## ⚡ Contribution
 
