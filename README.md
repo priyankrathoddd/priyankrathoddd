@@ -239,7 +239,7 @@ Comprehensive SQL repository covering DDL, DML, Constraints, Joins, Window Funct
 
 📧 Email: Priyankrathoddd@gmail.com
 
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/priyank-rathod-64b320412
 
 🌐 GitHub: https://github.com/priyankrathoddd
 
